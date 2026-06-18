@@ -76,6 +76,4 @@ A useful reading path is:
 
 The archival PDF is available through Zenodo:
 
-**DOI:** [ADD DOI AFTER ZENODO PUBLICATION]
-
-After publication, update this README with the final DOI link.
+**DOI:** https://doi.org/10.5281/zenodo.20721591
