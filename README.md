@@ -1,12 +1,12 @@
 # Field Notes from the Substrate — Translations No. 8
 
-## ¯\(ツ)/¯-Licensed E = mc²
+## ¯\\(ツ)/¯-Licensed E = mc²
 
 **Mass-Energy Equivalence as a Coherence-Licensed Rest-Frame Relation**
 
 ## What is this?
 
-This repository contains *Field Notes from the Substrate — Translations No. 8: ¯\(ツ)/¯-Licensed E = mc²*.
+This repository contains *Field Notes from the Substrate — Translations No. 8: ¯\\(ツ)/¯-Licensed E = mc²*.
 
 This note gives a Structural Flow translation of the rest-frame mass-energy relation usually written as:
 
